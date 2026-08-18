@@ -1,0 +1,6 @@
+@OasisConnect_HostAddress = http://localhost:5076
+
+GET {{OasisConnect_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
